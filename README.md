@@ -22,4 +22,4 @@ python report-ig.py
 
 # SafeCyberSecurity Team:
 
-Metadata-Version: 1.2 Name: Ig-Report Version: 2024.1.1 Summary: Tools IG-REPORT Author-email: Ali Eslami alitektanus@gmail.com Project-URL: Homepage, https://github.com/alieslami/Ig-Report.git Project-URL: Bug Tracker, https://github.com/alieslami/Ig-Reportr Classifier: Programming Language :: Python :: 3 Classifier: License :: OSI Approved :: MIT License Classifier: Operating System :: OS Independent Requires-Python: >=3.12 Description-Content-Type: text/markdown License-File: LICENCE
+Metadata-Version: 1.2 Name: Ig-Report Version: 2024.1.1 Summary: Tools IG-REPORT Author-email: Ali Eslami alitektanus@gmail.com Project-URL: Homepage, https://github.com/alieslami/Report-IG.git Project-URL: Bug Tracker, https://github.com/alieslami/Report-IG Classifier: Programming Language :: Python :: 3 Classifier: License :: OSI Approved :: MIT License Classifier: Operating System :: OS Independent Requires-Python: >=3.12 Description-Content-Type: text/markdown License-File: LICENCE
